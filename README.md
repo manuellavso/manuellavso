@@ -1,16 +1,30 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&random=false&width=800&lines=Ol%C3%A1%2C+sou+Manuella+Oliveira;Estudante+de+Engenharia+de+Software;Desenvolvedora+Full+Stack)
 
-<!--
-**manuellavso/manuellavso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.imgur.com/JogXhWT.png" width="600"/>
+</p>
 
-Here are some ideas to get you started:
+------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://em-content.zobj.net/source/apple/237/female-technologist-type-1-2_1f469-1f3fb-200d-1f4bb.png" alt="👩🏻‍💻 Tecnóloga: Pele Clara em Apple iOS 13.3" style="zoom:25%;" /> Sobre mim
+
+Sou estudante de ***Engenharia de Software*** e bolsista integral por mérito, com foco em desenvolvimento de software e construção de aplicações web.
+
+Atualmente, estou me especializando em ***Desenvolvimento Full Stack*** com Java, estudando POO, APIs REST, Git/GitHub e boas práticas de engenharia de software através de projetos práticos.
+
+------
+
+###  Tecnologias em desenvolvimento
+
+[![img](https://camo.githubusercontent.com/a8a68c28284473f0def108389f0b491a4280d619a5fc8eb06f80f981a9e98ddf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/a8a68c28284473f0def108389f0b491a4280d619a5fc8eb06f80f981a9e98ddf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/88b8bdce872268b3d0d7ec69e16716a0adf8fa0165eb6069bcb49e23bd5550ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)](https://camo.githubusercontent.com/88b8bdce872268b3d0d7ec69e16716a0adf8fa0165eb6069bcb49e23bd5550ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b) [![img](https://camo.githubusercontent.com/ed1a07e6b4988b48671328cdb74d95f89c7498518a749f39c8bb8ddc5cb44fda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/ed1a07e6b4988b48671328cdb74d95f89c7498518a749f39c8bb8ddc5cb44fda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/f1192e4d6223b82b7ddf3182f69b59e40f1a5457b896ffc9a2cdd8915fcc15a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/f1192e4d6223b82b7ddf3182f69b59e40f1a5457b896ffc9a2cdd8915fcc15a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
+
+
+
+------
+
+### 🌐 Contato
+
+[![img](https://camo.githubusercontent.com/3dab650f25d56587b6218c5aa481ae7da43e1b66427a0c2cd3263685fc765b0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:manuellavsdev@gmail.com) [![img](https://camo.githubusercontent.com/835f91c273c180e842aa0b2fb0d5ccc52def20089589abbcefceb28317c583f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)]([LinkedIn](https://www.linkedin.com/in/manuella-oliveira-93b8b0335/))
+
+
+
