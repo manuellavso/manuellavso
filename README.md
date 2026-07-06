@@ -6,7 +6,7 @@
 
 ------
 
-👩🏻‍💻 Sobre mim
+### 👩🏻‍💻 Sobre mim
 
 Sou estudante de ***Engenharia de Software*** e bolsista integral por mérito, com foco em desenvolvimento de software e construção de aplicações web.
 
