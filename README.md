@@ -6,7 +6,7 @@
 
 ------
 
-### <img src="https://em-content.zobj.net/source/apple/237/female-technologist-type-1-2_1f469-1f3fb-200d-1f4bb.png" alt="👩🏻‍💻 Tecnóloga: Pele Clara em Apple iOS 13.3" style="zoom:25%;" /> Sobre mim
+👩🏻‍💻 Sobre mim
 
 Sou estudante de ***Engenharia de Software*** e bolsista integral por mérito, com foco em desenvolvimento de software e construção de aplicações web.
 
